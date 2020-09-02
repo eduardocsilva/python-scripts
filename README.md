@@ -4,7 +4,7 @@ This repository contains a small collection of Python scripts that I've develope
 
 Feel free to use, fix or suggest improvements for any of them.
 
-### Github
+## Github
 
 This script, at the moment, allows a user to automate the process of a repository setup in Github (i.e. creating a local repository, creating a Github repository, linking them up and initializing a README and LICENSE files).
 
@@ -28,7 +28,7 @@ In order for this script to work, a **_config.json_** file should be setup in th
 }
 ```
 
-### Tree
+## Tree
 
 This is a simple script, that mimics the well-known **_Tree_** command, displaying the directory structure of the current path (i.e. files and directories).
 
